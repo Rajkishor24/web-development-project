@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poi",
+				"position\tproperty"
+			],
+			[
+				"right",
+				"border-right\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"bacc",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/modified.css",
+			"settings":
+			{
+				"buffer_size": 1432,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/modified.html",
+			"settings":
+			{
+				"buffer_size": 2814,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/HTML/my web",
+		"/C/HTML/my web/css",
+		"/C/HTML/my web/html",
+		"/C/HTML/my web/img"
+	],
+	"file_history":
+	[
+		"/C/HTML/my web/css/modified.css",
+		"/C/HTML/my web/css/index.css",
+		"/C/HTML/my web/html/index.html",
+		"/C/HTML/CSS/contact.css",
+		"/C/HTML/contact.html",
+		"/C/HTML/doc.css",
+		"/C/HTML/index.html",
+		"/C/HTML/techsupport.html",
+		"/C/HTML/premiumplus.html",
+		"/C/HTML/courses.html",
+		"/C/HTML/CSS/learntech.css",
+		"/C/HTML/learntech.html",
+		"/C/HTML/CSS/premiumplus.css",
+		"/C/HTML/CSS/courses.css",
+		"/C/HTML/CSS/techsupport.css",
+		"/C/HTML/do1.css",
+		"/C/HTML/in1.html",
+		"/C/HTML/demo.cpp",
+		"/C/HTML/demoo.html",
+		"/E/HTML5/11. Project Files/02. Finished Files/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\HTML\\my web"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/modified.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "html/modified.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

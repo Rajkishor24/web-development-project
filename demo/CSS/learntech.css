@@ -1,0 +1,104 @@
+/*this is the comment section and the comment for understanding purpose*/
+h1{
+	font-size: 60px;
+	text-align: center;
+}
+h2{
+	font-size: 50px;
+}
+h4{
+	font-size: 30px;
+}
+
+p{
+	font-size: 20px;
+}
+
+button:hover {
+    background-color: blue;
+    font-size: 21px;
+}
+
+
+header{
+	height: 70px;
+	background-color: rgba(9, 13, 7, 0.6);
+}
+#logo{
+	display: inline-block;
+	width: 227px;
+    height: 45px;
+    border-top-width: 19px;
+    padding-top: 12px;
+    font-size: 30px;
+}
+#logo:hover{
+	background-color: blue;
+}
+
+nav{
+	display: inline-block;
+	font-size: 25px;
+}
+a{
+	color: white;
+	padding: 20px;
+}
+a:hover{
+	color: blue;
+	font-size: 26px;
+}
+
+/*........................................................................................*/
+/*4th section is completed now entering to the 5th section of thew page*/
+
+#c5{
+	position: absolute;
+	top: 100px;
+}
+#e1{
+	top: 100px;
+	width: 400px;
+	height: 500px;
+	text-align: center;
+	position: absolute;
+}
+#e2{
+	width: 400px;
+	height: 500px;
+	text-align: center;
+	position: absolute;
+	top: 100px;
+	left: 450px;
+}
+#e3{
+	width: 400px;
+	height: 500px;
+	text-align: center;
+	position: absolute;
+	top: 100px;
+	left: 900px;
+}
+#p{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+/*the last section and the footer section */
+
+footer{
+	position: absolute;
+	top: 700px;
+	background-color: rgba(9, 13, 7, 0.6);
+}
+#edit{
+	position: relative;
+	width: 1333px;
+	font-weight: bold;
+	font-size: 20px;
+	left: 500px;
+	top: -30px;
+	color: white;
+}

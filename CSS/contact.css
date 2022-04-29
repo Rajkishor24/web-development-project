@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+}
+header{
+    height: 80px;
+    width: 100%;
+    background-color: blue;
+    position: relative;
+}
+#logo{
+    height: 80px;
+    width: 110px;
+}
+
+#nav{
+    font-size: 25px;
+    position: relative;
+    top: -60px;
+    right: -180px;;
+}
+
+a.navi{
+    font-family: "Times New Roman", Times, serif;
+    color: burlywood;
+    font-weight: bold;
+    padding: 10px;
+    border: 2px solid blue;
+}
+
+a.navi:hover{
+    border: 2px solid white;
+}
+
+/*..................................................*/
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 40px;
+}
+
+form{
+    position: relative;
+    text-align: center;
+    left: 0%;
+    margin: 15px;
+}
+
+#message{
+    height: 100px;
+    width: 150px;
+}
+
+.formo{
+    margin: 8px 0px;
+}
+
+button{
+    box-shadow: 5px 5px black;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+button:hover{
+    background-color: turquoise;
+    
+}
+
+/*...........................................................................*/
+footer{
+    height: 95px;
+    width: 100%;
+    background-color: blue;
+    position: relative;
+}
+#logo1{
+    height: 95px;
+    width: 110px;
+}
+
+#foot{
+    color: aliceblue;
+    position: absolute;
+    bottom: 8px;
+    left: 600px;
+}

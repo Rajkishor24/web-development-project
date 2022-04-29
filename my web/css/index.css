@@ -1,0 +1,85 @@
+header{
+	display: inline-block;
+
+	height: 80px;
+	width: 100%;
+	background-color: #0B0B45;
+}
+
+#logo{
+	position: absolute;
+	height: 80px;
+	width: 150px;
+}
+
+a#h{
+	padding: 20px;
+	color: pink;
+	border: 2px solid #0B0B45;
+}
+/*a{
+	#590f0f; in use
+	#000080    navy blue
+	padding: 20px;
+}*/
+a#h:hover{
+	color: white;
+	border: 2px solid white;
+}
+.navi{
+	display: inline;
+	position: absolute;
+	font-size: 25px;
+	top: 30px;
+	right: 160px;
+}
+
+
+/*this section is for the sale section*/
+#f_sale{
+	position: relative;
+	top: -25px;
+	text-decoration: underline;
+	text-align: center;
+	border: 2px solid grey;
+	font-weight: bold;
+	background-color: #637ebd;
+	color: floralwhite;
+}   
+#sale{
+	position: relative;
+	top: -44px;
+	height: 430px;
+	width: 100%;
+	background-color: #d3d3e1;
+	
+}
+#mus{
+	height: 250px;
+	width: 240px;
+	padding-right: 26px;
+}
+
+#pro{
+	position: relative;
+	display: flex;
+	top: 40px;
+	left: 13px;
+}
+
+/*this section is for the footer part of the web page*/
+
+footer{
+	position: relative;
+	display: inline-block;
+	height: 80px;
+	width: 100%;
+	background-color: #0B0B45;	
+	top: -41px;
+}
+#foot{
+	right: -210px;
+	position: relative;
+	top: 23px;
+	color: white;
+}
